@@ -1,0 +1,13 @@
+name: NSF-OISE-AwardBrowser
+title: NSF-OISE-AwardBrowser
+username: kchoover14
+account: kchoover14
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11979678
+bundleId: 8643988
+url: https://kchoover14.shinyapps.io/NSF-OISE-AwardBrowser/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app-plotly.R|helper-plotly.R
